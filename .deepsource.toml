@@ -1,7 +1,4 @@
 version = 1
 
 [[analyzers]]
-name = "go"
-
-  [analyzers.meta]
-  import_root = "github.com/saidtechnology/flutter_shop_stor"
+name = "test-coverage"
